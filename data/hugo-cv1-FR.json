@@ -29,12 +29,12 @@
   "userDetails": {
     "address1": "",
     "address2": "",
-    "fullAddress": "68 BD banon Bâtiment B appartement 508",
-    "city": "Marseille",
-    "zip": "13004",
+    "fullAddress": "100 Rue Carreterie Appartement 27",
+    "city": "Avignon",
+    "zip": "84000",
     "country": "France",
-    "mail": "mr.hamidi.okba@gmail.com",
-    "phoneNumber": "+33 7 68 08 40 71",
+    "mail": "hugo.duplan@gmail.com",
+    "phoneNumber": "+33 6 16 90 81 44",
     "github": ""
   },
   "moreInformation": {
@@ -46,15 +46,10 @@
           "classesName": "skill"
         },
         "array": [
-          "HTML/CSS",
-          "Javascript (Canilla ES6+, AngularJS)",
-          "TypeScript (Angular 6+)",
-          "Lua",
-          "C/C++",
-          "NodeJS",
-          "SQL",
-          "C#",
-          "JAVA"
+          "Photoshop",
+          "Documents de traitement de texte",
+          "Aisance orale",
+          "Régie radio"
         ]
       },
       "languages": {
@@ -73,15 +68,18 @@
         },
         "array": [
           "Jeux vidéo",
-          "Informatique embarqué(arduino, STM32 nucléo)",
-          "Aeronautiques",
-          "3D (openGL C/C++, unity 3D, unreal Engine 4, blender)"
+          "Bricolage",
+          "Lecture",
+          "Modélisme",
+		  "Guitare",
+		  "Tir sportif",
+		  "Sport"
         ]
       }
     },
     "summary": {
       "title": "Recherche de stage",
-      "text": "Développeur front et back end dans le développement web et développement logiciel, je suis actuellement à la recherche d'un emploi dans le domaine informatique afin de m'épanouir professionnellement et de prouver mes compétences au sein d'une équipe. "
+      "text": "Actuellement en licence d'Information-Communication à l'Université d'Avignon, je suis en recherche active de stage dans le domaine de la communication publicitaire médiatique; afin d'acquérir une expérience forte et aller au contacte des professionels du métier. "
     },
     "backgroundExperiences": {
       "workExperiences": {
@@ -92,35 +90,29 @@
         },
         "array": [
           {
-            "date": "06/2017",
-            "title": "Développeur",
-            "organizationName": "Calinda Software",
-            "description": "Développeur (web/applicatif), front-end/back-end, HTML,CSS, JS(AngularJS, JQuery), C#, SQL, JAVA."
+            "date": "07/2016 - 08/2016",
+            "title": "Marketing",
+            "organizationName": "Méli-Mélo Paris",
+            "description": "Stage d'un mois au sein du secteur Marketing de l'entreprise de bijoux roumaine Méli-Mélo Paris."
           },
           {
-            "date": "02/2017 - 03/2017",
-            "title": "STAGE DÉVELOPPEUR WEB (BACK-END) / DÉVELOPPEUR C/C++ ARDUINO",
-            "organizationName": "Urban prod",
-            "description": "Stage dans le développement de site web principalement sous wordpress. Fusion de plusieurs site, intégration de carte Open street map, création du modèle relationnel pour la nouvelle base de donnée mysql, tests sous Arduino, médiation numérique."
+            "date": "06/2018 - 07/2018",
+            "title": "Marketing et Commercial",
+            "organizationName": "Méli-Mélo Paris",
+            "description": "Stage d'un mois au sein des secteurs Marketing et Commercial de l'entreprise Roumaien Méli-Mélo Paris."
           },
           {
-            "date": "05/2016 - 09/2016",
-            "title": "MAGASINIER",
-            "organizationName": "BHM DISTRIBUTION",
-            "description": "Gestion des stocks, magasinage: déchargement des palette,utilisation du transpalette manuel/électrique, aide client."
+            "date": "05/2015",
+            "title": "Sensibilisation",
+            "organizationName": "Association Initiatives et Education de la Jeunesse à l'Environnement (AIEJE)",
+            "description": "Stage de trois semaines au sein d'une association de protection de la nature, avec organisation d'évènements de sensibilisation à des enfants."
           },
-          {
-            "date": "12/2011 - 01/2012",
-            "title": "MAINTENANCE EN INFORMATIQUE MÉDICALE",
-            "organizationName": "AMFI",
-            "description": "Stage dans la maintenance des équipement informatique des clients médecins et installation des logiciels de gestion médicale (axilog). "
-          },
-          {
-            "date": "04/2009 - 05/2009",
-            "title": "MAINTENANCE EN INFORMATIQUE",
-            "organizationName": "Cyber Kartié",
-            "description": "Stage dans un cybercafé, maintenance des ordinateurs, réparation et montage de nouveaux ordinateurs pour les revendre par la suite."
-          }
+		  {
+		    "date": "2018 - 2019"
+			"title": "Radio"
+			"organizationName": "Radio Campus Avignon"
+			"description": "Régisseur radio et chroniqueur à l'émission Ctrl-Alt-Play et L'Instant Show"
+           
         ]
       },
       "formations": {
@@ -131,10 +123,10 @@
         },
         "array": [
           {
-            "date": "2016",
-            "title": "SIMPLONMARS",
-            "organizationName": "SIMPLONMARS",
-            "description": "Formation intensive à centrale Marseille sur les langages de programmation web (front et back-end), médiation numérique, méthodes agiles."
+            "date": "2017-2018",
+            "title": "Licence 2 Information-Communication",
+            "organizationName": "Avignon Université",
+            "description": "Licence théorique et pratique sur les sciences de l'information et de la communication, ses théories et ses application professionnelles"
           }
         ]
       }

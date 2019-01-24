@@ -1,10 +1,10 @@
 {
-  "firstName": "Okba",
-  "lastName": "Hamidi",
+  "firstName": "Hugo",
+  "lastName": "DUPLAN",
   "dictionary": {
     "address1": "adresse",
     "address2": "adresse2",
-    "fullAddress": "adresse",
+    "fullAddress": "Adresse",
     "city": null,
     "zip": null,
     "country": null,
@@ -23,24 +23,24 @@
       "country": true,
       "mail": true,
       "phoneNumber": true,
-      "github": true
+      "github": false
     }
   },
   "userDetails": {
-    "address1": "68 BD banon",
-    "address2": "Bâtiment B appartement 508",
+    "address1": "",
+    "address2": "",
     "fullAddress": "68 BD banon Bâtiment B appartement 508",
     "city": "Marseille",
     "zip": "13004",
     "country": "France",
     "mail": "mr.hamidi.okba@gmail.com",
     "phoneNumber": "+33 7 68 08 40 71",
-    "github": "https://github.com/acceleratorlastorder"
+    "github": ""
   },
   "moreInformation": {
     "userAbilities": {
       "skills": {
-        "title": "Skills",
+        "title": "Compétences",
         "style": {
           "IdName": "skills",
           "classesName": "skill"
@@ -58,12 +58,12 @@
         ]
       },
       "languages": {
-        "title": "Languages",
+        "title": "Langages",
         "style": {
           "IdName": "languages",
           "classesName": "language"
         },
-        "array": ["Anglais", "Français"]
+        "array": ["Anglais", "Français","Allemand"]
       },
       "Hobbies": {
         "title": "Hobbies",
@@ -80,12 +80,12 @@
       }
     },
     "summary": {
-      "title": "Développeur",
+      "title": "Recherche de stage",
       "text": "Développeur front et back end dans le développement web et développement logiciel, je suis actuellement à la recherche d'un emploi dans le domaine informatique afin de m'épanouir professionnellement et de prouver mes compétences au sein d'une équipe. "
     },
     "backgroundExperiences": {
       "workExperiences": {
-        "title": "experiences proféssionnelles",
+        "title": "Experiences professionnelles",
         "style": {
           "IdName": "experiences",
           "classesName": "experience"
@@ -124,7 +124,7 @@
         ]
       },
       "formations": {
-        "title": "formations",
+        "title": "Formations",
         "style": {
           "IdName": "formations",
           "classesName": "formation"

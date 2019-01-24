@@ -49,7 +49,7 @@
           "Photoshop",
           "Documents de traitement de texte",
           "Aisance orale",
-          "Régie radio"
+          "Régie radio."
         ]
       },
       "languages": {
@@ -58,7 +58,7 @@
           "IdName": "languages",
           "classesName": "language"
         },
-        "array": ["Anglais", "Français","Allemand"]
+        "array": ["Anglais", "Français","Allemand."]
       },
       "Hobbies": {
         "title": "Hobbies",
@@ -74,13 +74,13 @@
           "Guitare",
           "Tir sportif",
           "Sport",
-          "Radio"
+          "Radio."
         ]
       }
     },
     "summary": {
       "title": "Recherche de stage",
-      "text": "Actuellement en licence d'Information-Communication à l'Université d'Avignon, je suis en recherche active de stage dans le domaine de la communication publicitaire médiatique; afin d'acquérir une expérience forte et aller au contacte des professionels du métier. "
+      "text": "Actuellement en licence d'Information-Communication à l'Université d'Avignon, je suis en recherche active de stage dans le domaine de la communication publicitaire médiatique; afin d'acquérir une expérience forte et aller au contact des professionels du métier. "
     },
     "backgroundExperiences": {
       "workExperiences": {
@@ -94,25 +94,25 @@
             "date": "07/2016 - 08/2016",
             "title": "Marketing",
             "organizationName": "Méli-Mélo Paris",
-            "description": "Stage d'un mois au sein du secteur Marketing de l'entreprise de bijoux roumaine Méli-Mélo Paris."
+            "description": "Stage d'un mois au sein du secteur Marketing de l'entreprise roumaine de bijoux Méli-Mélo Paris."
           },
           {
             "date": "06/2018 - 07/2018",
             "title": "Marketing et Commercial",
             "organizationName": "Méli-Mélo Paris",
-            "description": "Stage d'un mois au sein des secteurs Marketing et Commercial de l'entreprise Roumaien Méli-Mélo Paris."
+            "description": "Stage d'un mois au sein du secteur Marketing et du secteur Commercial de l'entreprise roumaine Méli-Mélo Paris."
           },
           {
             "date": "05/2015",
             "title": "Sensibilisation",
             "organizationName": "Association Initiatives et Education de la Jeunesse à l'Environnement (AIEJE)",
-            "description": "Stage de trois semaines au sein d'une association de protection de la nature, avec organisation d'évènements de sensibilisation à des enfants."
+            "description": "Stage de trois semaines au sein d'une association de protection de la nature, avec organisation d'évènements de sensibilisation pour enfants."
           },
           {
             "date": "2018 - 2019",
             "title": "Radio",
             "organizationName": "Radio Campus Avignon",
-            "description": "Régisseur radio et chroniqueur à l'émission Ctrl-Alt-Play et L'Instant Show"
+            "description": "Régisseur radio et chroniqueur à l'émission Ctrl-Alt-Play et L'Instant Show."
            }
         ]
       },
@@ -127,7 +127,7 @@
             "date": "2017-2018",
             "title": "Licence 2 Information-Communication",
             "organizationName": "Avignon Université",
-            "description": "Licence théorique et pratique sur les sciences de l'information et de la communication, ses théories et ses applications professionnelles"
+            "description": "Licence théorique et pratique sur les sciences de l'information et de la communication, ses théories et ses applications professionnelles."
           }
         ]
       }

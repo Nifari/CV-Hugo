@@ -109,9 +109,9 @@
             "description": "Stage de trois semaines au sein d'une association de protection de la nature, avec organisation d'évènements de sensibilisation à des enfants."
           },
 		  {
-		    "date": "2018 - 2019"
-			"title": "Radio"
-			"organizationName": "Radio Campus Avignon"
+		    "date": "2018 - 2019",
+			"title": "Radio",
+			"organizationName": "Radio Campus Avignon",
 			"description": "Régisseur radio et chroniqueur à l'émission Ctrl-Alt-Play et L'Instant Show"
            
         ]
@@ -134,3 +134,4 @@
     }
   }
 }
+]

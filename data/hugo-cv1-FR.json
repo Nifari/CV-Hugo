@@ -71,10 +71,10 @@
           "Bricolage",
           "Lecture",
           "Modélisme",
-		  "Guitare",
-		  "Tir sportif",
-		  "Sport",
-		  "Radio"
+          "Guitare",
+          "Tir sportif",
+          "Sport",
+          "Radio"
         ]
       }
     },
@@ -108,12 +108,12 @@
             "organizationName": "Association Initiatives et Education de la Jeunesse à l'Environnement (AIEJE)",
             "description": "Stage de trois semaines au sein d'une association de protection de la nature, avec organisation d'évènements de sensibilisation à des enfants."
           },
-		  {
-		    "date": "2018 - 2019",
-			"title": "Radio",
-			"organizationName": "Radio Campus Avignon",
-			"description": "Régisseur radio et chroniqueur à l'émission Ctrl-Alt-Play et L'Instant Show"
-           
+          {
+            "date": "2018 - 2019",
+            "title": "Radio",
+            "organizationName": "Radio Campus Avignon",
+            "description": "Régisseur radio et chroniqueur à l'émission Ctrl-Alt-Play et L'Instant Show"
+           }
         ]
       },
       "formations": {
@@ -127,7 +127,7 @@
             "date": "2017-2018",
             "title": "Licence 2 Information-Communication",
             "organizationName": "Avignon Université",
-            "description": "Licence théorique et pratique sur les sciences de l'information et de la communication, ses théories et ses application professionnelles"
+            "description": "Licence théorique et pratique sur les sciences de l'information et de la communication, ses théories et ses applications professionnelles"
           }
         ]
       }

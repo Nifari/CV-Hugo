@@ -19,8 +19,8 @@
       "address2": false,
       "fullAddress": true,
       "city": true,
-      "zip": true,
-      "country": true,
+      "zip": false,
+      "country": false,
       "mail": true,
       "phoneNumber": true,
       "github": false
@@ -30,9 +30,9 @@
     "address1": "",
     "address2": "",
     "fullAddress": "100 Rue Carreterie Appartement 27",
-    "city": "Avignon",
+    "city": "84000 Avignon",
     "zip": "84000",
-    "country": "France",
+    "country": "",
     "mail": "hugo.duplan@gmail.com",
     "phoneNumber": "+33 6 16 90 81 44",
     "github": ""
@@ -47,7 +47,7 @@
         },
         "array": [
           "Photoshop",
-          "Documents de traitement de texte",
+          "Suite Office",
           "Aisance orale",
           "Régie radio."
         ]
@@ -58,7 +58,7 @@
           "IdName": "languages",
           "classesName": "language"
         },
-        "array": ["Anglais", "Français","Allemand."]
+        "array": ["Anglais","Allemand."]
       },
       "Hobbies": {
         "title": "Hobbies",
@@ -67,7 +67,7 @@
           "classesName": "hobbie"
         },
         "array": [
-          "Jeux vidéo",
+          
           "Bricolage",
           "Lecture",
           "Modélisme",
@@ -100,7 +100,7 @@
             "date": "06/2018 - 07/2018",
             "title": "Marketing et Commercial",
             "organizationName": "Méli-Mélo Paris",
-            "description": "Stage d'un mois au sein du secteur Marketing et du secteur Commercial de l'entreprise roumaine Méli-Mélo Paris."
+            "description": "CDD d'un mois au sein du secteur Marketing et du secteur Commercial de l'entreprise roumaine Méli-Mélo Paris."
           },
           {
             "date": "05/2015",
